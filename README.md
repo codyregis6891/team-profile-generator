@@ -15,10 +15,10 @@ The data from these objects was then taken and added to an HTML page to show car
 ## Application
 
 The live repository for this app is below:
-https://github.com/codyregis6891/
+https://github.com/codyregis6891/team-profile-generator/
 
 The walkthrough video can be seen here:
-
+https://drive.google.com/file/d/1tZ0PG6lhk1sCBYZz8I27leQOYisQG9tF/view
 
 
 
