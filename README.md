@@ -1,6 +1,23 @@
 # Team Profile Generator
 
+
+## License
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## Application
+
+The walkthrough video can be seen here:
+https://drive.google.com/file/d/1tZ0PG6lhk1sCBYZz8I27leQOYisQG9tF/view
+
+## Technology Used
+
+* Javascript
+* Node.js
+* Inquirer NPM Package
+* Jest NPM Package
+
 
 ## Description
 
@@ -8,21 +25,16 @@ This Team Profile Generator will allow the user to create a simple web page that
 
 ## Installation
 
-This generator was made using javaScript.  Also necessary was installing and implementing inquirer.  Using the data collected, employees objects were made and extended to further classifications. 
+1. Clone the Repo
+  ```sh
+  git@github.com:codyregis6891/team-profile-generator.git
+  ```
+2. All NPM packages required for this application are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root    directory level to install the packages.
 
-The data from these objects was then taken and added to an HTML page to show cards of each employee with their basic information.
-
-## Application
-
-The live repository for this app is below:
-https://github.com/codyregis6891/team-profile-generator/
-
-The walkthrough video can be seen here:
-https://drive.google.com/file/d/1tZ0PG6lhk1sCBYZz8I27leQOYisQG9tF/view
+3. Ensure you have Node.js installed on your machine. The application will be invoked by entering node server.js in the command line.
 
 
+## Questions or Issues?
 
-
-## Questions?
-
-Contact me: codyregis6891@yahoo.com
+* Email: codyregis6891@gmail.com
+* https://github.com/codyregis6891/team-profile-generator/issues
