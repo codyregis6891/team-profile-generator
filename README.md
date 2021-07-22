@@ -31,7 +31,7 @@ This Team Profile Generator will allow the user to create a simple web page that
   ```
 2. All NPM packages required for this application are already listed as dependencies in the package.json file. Run the command 'npm i' command in your terminal at the root    directory level to install the packages.
 
-3. Ensure you have Node.js installed on your machine. The application will be invoked by entering node server.js in the command line.
+3. Ensure you have Node.js installed on your machine. The application will be invoked by entering node index.js in the command line.
 
 
 ## Questions or Issues?
